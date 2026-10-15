@@ -76,7 +76,7 @@ The dashboard includes the following components, built on top of pivot tables:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard.png)
+![Dashboard Overview](screenshots/Dashboard.png)
 
 *Full interactive dashboard showing KPI cards, category performance, channel split, sales trend, regional performance, and top products/customers.*
 
@@ -89,7 +89,7 @@ sales-performance-analysis-excel/
 ├── data/
 │   └── Sales_Performance_Analysis.xlsx
 └── screenshots/
-    └── dashboard-overview.png
+    └── Dashboard.png
 ```
 
 ## 🚀 How to Use / Open the Project
